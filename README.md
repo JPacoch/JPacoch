@@ -1,8 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://jakubpacocha.com" target="_blank">Jakub Pacocha</a></h1>
-<h3 align="center">AI Engineer | Data Scientist | Spatial Geoinformatics</h3>
 
 <p align="center">
-  I'm a Full-stack AI Engineer based in Poland 🇵🇱. I specialize in building <strong>RAG architectures</strong>, scalable <strong>ML infrastructure</strong>, and leveraging <strong>spatial data</strong> for impactful solutions.
+  I'm an AI Engineer based in Bydgoszcz, Poland. I specialize in building <strong>RAG architectures</strong>, scalable <strong>ML infrastructure</strong>, and leveraging <strong>spatial data</strong> for impactful solutions.
   <br>
   Passionate about civic tech, I work with NGOs and businesses to create digital layers that make sense of data. When I'm not coding, I explore the intersection of philosophy and technology.
 </p>
