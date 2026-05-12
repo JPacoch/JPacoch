@@ -8,19 +8,24 @@
 
 <p align="center">
   <a href="https://jakubpacocha.com">
-    <img src="https://img.shields.io/badge/Portfolio-jakubpacocha.com-black?style=for-the-badge&logo=globe" alt="Website" />
+    <img src="https://custom-icon-badges.herokuapp.com/badge/website-000000?style=flat-square&logo=home&logoColor=white" alt="home badge"/>
   </a>
   <a href="mailto:pacochp@gmail.com">
-    <img src="https://img.shields.io/badge/Email-pacochp@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://custom-icon-badges.herokuapp.com/badge/mail-000000?style=flat-square&logo=mail&logoColor=white" alt="mail badge"/>
   </a>
   <a href="https://www.linkedin.com/in/jakubpacocha/">
-    <img src="https://img.shields.io/badge/LinkedIn-Jakub%20Pacocha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn badge"/>
   </a>
   <a href="https://x.com/JakubPacocha">
-    <img src="https://img.shields.io/badge/Twitter-@JakubPacocha-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter badge"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JPacoch&theme=graywhite&hide_border=true" alt="GitHub Streak" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JPacoch&theme=github_dark" alt="Profile details badge"/>
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JPacoch&theme=github_dark" alt="Top languages by repo badge"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JPacoch&theme=github_dark" alt="General stats badge"/>
 </p>
